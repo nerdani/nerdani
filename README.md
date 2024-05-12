@@ -26,7 +26,7 @@ Soy un apasionado profesional del análisis de datos, destaco por mi responsabil
 🔍 Resolución de Problemas: Encuentro soluciones a desafíos identificados, empleando creatividad y pensamiento crítico para resolver problemas de manera efectiva.
 ***
 
-💻 TechStack:
+🛠️ Technologies and Tools I use:
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
@@ -36,10 +36,6 @@ Soy un apasionado profesional del análisis de datos, destaco por mi responsabil
 [![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
-
-💻 Plataformas de desarrollo: 
-
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda Navigator](https://img.shields.io/badge/Anaconda_Navigator-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
