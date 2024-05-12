@@ -1,6 +1,16 @@
-👋 About Me:
+About Me:
 
-Hola! Soy Francisca Gálvez, soy Analista de Datos y Programadora, Entry Level en Accenture Chile. Me he desempeñado como profesora por 9 años por lo que mi fuerte con las habilidades blandas y estoy en proceso de actualización de aprendizajes técnicos, hace poco participé en un BootCamp de Data Science en Desafio Latam y actualmente estoy estudiando un curso de Talento Digital Chile de Análisis de Datos (Certificado por Google).
+👋 ¡Hola! Soy Daniel Herrera, un apasionado profesional del análisis de datos con experiencia en diversas áreas. Me mantengo al tanto de las últimas tendencias en el campo y disfruto ofreciendo soluciones innovadoras y eficientes.
+
+💼 Destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
+
+💡 Mi capacidad para abordar problemas de manera proactiva y efectiva me ha permitido desarrollar proyectos exitosos y lograr resultados excepcionales.
+
+🔍 Actualmente estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.
+
+¡No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes y desafiantes en el campo del análisis de datos!
+
+
 
 🌐 Social:
 
