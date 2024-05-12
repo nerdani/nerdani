@@ -1,5 +1,14 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Daniel Herrera</h1>
 
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" alt="GIF" width="300"><img src="https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" alt="GIF" width="300"><img src="https://media2.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" alt="GIF" width="300">
+</p>
+
+
+
+
+
 About Me:
 
 Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
