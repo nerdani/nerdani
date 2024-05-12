@@ -1,6 +1,8 @@
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Daniel Herrera</h1>
+
 About Me:
 
-👋 ¡Hola! Soy Daniel Herrera, un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
+Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
 
 😎 Actualmente me encuentro estudiando un diplomado en la Universidad Autónoma de Chile en Business Analytics con Inteligencia Artificial y un bootcamp por Talento Digital de Data Science 
 
