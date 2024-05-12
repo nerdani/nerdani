@@ -1,5 +1,5 @@
 <div align="right" style="margin-left: 20px;">
-    <img src=" https://img.shields.io/badge/github/followers/nerdani?label=Profile%20views&logo=GitHub&style=social&color=blue" alt="Profile views">
+    <img src=" https://img.shields.io/badge/followers/nerdani?label=Profile%20views&logo=GitHub&style=social&color=blue" alt="Profile views">
 </div>
 
 ### Hi there 👋
