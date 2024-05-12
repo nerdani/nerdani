@@ -15,14 +15,13 @@ About Me:
 ***
 🤓 Soft Skills: 
 
-🤝 Trabajo con personas:
-Comunicación de forma clara y efectiva, adapto el mensaje a públicos distintos. Mantengo una relación beneficiosa con los demás para fortalecer mis conocimientos y efectividad. Trabajo bien con otras personas y me centras en los logros y el reconocimiento del equipo.
+🤝 Trabajo en equipo: He tenido la oportunidad de trabajar codo a codo con compañeros de diferentes áreas, lo que me ha permitido recopilar información esencial en un ambiente de colaboración, asegurando que nuestros proyectos cumplan con los requisitos necesarios.
 
-👩‍💻 Estilo de trabajo:
-Siempre dispuesta a aprender información nueva y a buscar formas de aplicarlo en mi trabajo. Cumplo con lo que me piden a la vez que logrando estándares de trabajo elevados.
+💬 Comunicación Efectiva: Habilidades sólidas de comunicación al redactar informes técnicos y al coordinar con diferentes departamentos, asegurando que todos estén en la misma página y puedan trabajar juntos de manera efectiva
 
-📰 Trabajo con información:
-Suelo aislar las áreas problemáticas y usar técnicas eficaces para darles solución. Proceso relaciones complejas con facilidad en tu mente. Proceso y manipulo con facilidad la información numérica.
+🔍 Atención al Detalle: Enfoque meticuloso en la gestión de datos, garantizando la precisión y la integridad de la información en todo momento.
+
+🔍 Resolución de Problemas: Encuentro soluciones a desafíos identificados, empleando creatividad y pensamiento crítico para resolver problemas de manera efectiva.
 ***
 
 💻 TechStack:
