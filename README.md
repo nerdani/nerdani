@@ -1,16 +1,12 @@
 About Me:
 
-👋 ¡Hola! Soy Daniel Herrera, un apasionado profesional del análisis de datos con experiencia en diversas áreas. Me mantengo al tanto de las últimas tendencias en el campo y disfruto ofreciendo soluciones innovadoras y eficientes.
+👋 ¡Hola! Soy Daniel Herrera, un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
 
-💼 Destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
+😎 Actualmente me encuentro estudiando un diplomado en la Universidad Autónoma de Chile en Business Analytics con Inteligencia Artificial y un bootcamp por Talento Digital de Data Science 
 
-💡 Mi capacidad para abordar problemas de manera proactiva y efectiva me ha permitido desarrollar proyectos exitosos y lograr resultados excepcionales.
-
-🔍 Actualmente estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.
+🔍 Estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.
 
 ¡No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes y desafiantes en el campo del análisis de datos!
-
-
 
 🌐 Social:
 
@@ -41,6 +37,9 @@ Suelo aislar las áreas problemáticas y usar técnicas eficaces para darles sol
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 
-💻 IDE: 
+💻 Plataformas de desarrollo: 
 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Anaconda Navigator](https://img.shields.io/badge/Anaconda_Navigator-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
+
