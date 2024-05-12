@@ -1,4 +1,5 @@
 [![datascience.jpg](https://i.postimg.cc/7YkGzcWD/datascience.jpg)](https://postimg.cc/t7B4Qrbm)
+![Profile views](https://img.shields.io/github/followers/nerdani?label=Profile%20views&logo=GitHub&style=social)
 
 ### Hi there 👋
 
