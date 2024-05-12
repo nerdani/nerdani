@@ -1,5 +1,6 @@
-[![datascience.jpg](https://i.postimg.cc/7YkGzcWD/datascience.jpg)](https://postimg.cc/t7B4Qrbm)
-![Profile views](https://img.shields.io/github/followers/nerdani?label=Profile%20views&logo=GitHub&style=social)
+<div align="right" style="margin-left: 20px;">
+    <img src="https://img.shields.io/github/followers/username?label=Profile%20views&logo=GitHub&style=social" alt="Profile views">
+</div>
 
 ### Hi there 👋
 
