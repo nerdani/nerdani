@@ -12,7 +12,7 @@
 
 
 
-
+<p align="justify">  
 # About Me:
 
 Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
@@ -59,6 +59,6 @@ Soy un apasionado profesional del análisis de datos, destaco por mi responsabil
 [Gestión de Inventario](https://github.com/nerdani/inventario)
 
 
-
+</p>
 
 
