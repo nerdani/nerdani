@@ -17,7 +17,7 @@
 
 <p align="justify">  Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.</p>
 
-<p align="justify"> 😎 Actualmente me encuentro estudiando un diplomado en la Universidad Autónoma de Chile en Big data y Machine Learning </p>
+<p align="justify"> 😎 Actualmente me encuentro estudiando un diplomado de Big data y Machine Learning en la Universidad Autónoma de Chile  </p>
 
 <p align="justify"> 🔍 Estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.</p>
 
