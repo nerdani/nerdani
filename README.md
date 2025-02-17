@@ -13,7 +13,7 @@
 
 
 
-About Me:
+# About Me:
 
 Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
 
@@ -23,23 +23,23 @@ Soy un apasionado profesional del análisis de datos, destaco por mi responsabil
 
 ¡No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes y desafiantes en el campo del análisis de datos!
 
-🌐 Social:
+# 🌐 Social:
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/danielherreramz/" target="_blank" onclick="window.open('https://www.linkedin.com/in/danielherreramz/', '_blank');"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ***
-🤓 Soft Skills: 
+# 🤓 Soft Skills: 
 
-🤝 Trabajo en equipo: He tenido la oportunidad de trabajar codo a codo con compañeros de diferentes áreas, lo que me ha permitido recopilar información esencial en un ambiente de colaboración, asegurando que nuestros proyectos cumplan con los requisitos necesarios.
+🤝 **Trabajo en equipo**: He tenido la oportunidad de trabajar codo a codo con compañeros de diferentes áreas, lo que me ha permitido recopilar información esencial en un ambiente de colaboración, asegurando que nuestros proyectos cumplan con los requisitos necesarios.
 
-💬 Comunicación Efectiva: Habilidades sólidas de comunicación al redactar informes técnicos y al coordinar con diferentes departamentos, asegurando que todos estén en la misma página y puedan trabajar juntos de manera efectiva
+💬 **Comunicación Efectiva**: Habilidades sólidas de comunicación al redactar informes técnicos y al coordinar con diferentes departamentos, asegurando que todos estén en la misma página y puedan trabajar juntos de manera efectiva
 
-🔍 Atención al Detalle: Enfoque meticuloso en la gestión de datos, garantizando la precisión y la integridad de la información en todo momento.
+🔍 **Atención al Detalle**: Enfoque meticuloso en la gestión de datos, garantizando la precisión y la integridad de la información en todo momento.
 
-🔍 Resolución de Problemas: Encuentro soluciones a desafíos identificados, empleando creatividad y pensamiento crítico para resolver problemas de manera efectiva.
+🔍 **Resolución de Problemas**: Encuentro soluciones a desafíos identificados, empleando creatividad y pensamiento crítico para resolver problemas de manera efectiva.
 ***
 
-🛠️ Technologies and Tools I use:
+# 🛠️ Technologies and Tools I use:
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
@@ -52,4 +52,13 @@ Soy un apasionado profesional del análisis de datos, destaco por mi responsabil
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Anaconda Navigator](https://img.shields.io/badge/Anaconda_Navigator-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
+
+
+# Repositorios
+### Python
+[Gestión de Inventario](https://github.com/nerdani/inventario)
+
+
+
+
 
