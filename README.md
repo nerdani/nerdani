@@ -12,32 +12,32 @@
 
 
 
-<p align="justify">  
+
 # About Me:
 
-Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.
+<p align="justify">  Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.</p>
 
-😎 Actualmente me encuentro estudiando un diplomado en la Universidad Autónoma de Chile en Business Analytics con Inteligencia Artificial y un bootcamp por Talento Digital de Data Science 
+<p align="justify"> 😎 Actualmente me encuentro estudiando un diplomado en la Universidad Autónoma de Chile en Big data y Machine Learning </p>
 
-🔍 Estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.
+<p align="justify"> 🔍 Estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.</p>
 
-¡No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes y desafiantes en el campo del análisis de datos!
+<p align="justify"> ¡No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes y desafiantes en el campo del análisis de datos!</p>
 
 # 🌐 Social:
 
 <a title="LinkedIn" href="https://www.linkedin.com/in/danielherreramz/" target="_blank" onclick="window.open('https://www.linkedin.com/in/danielherreramz/', '_blank');"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-***
+
 # 🤓 Soft Skills: 
 
-🤝 **Trabajo en equipo**: He tenido la oportunidad de trabajar codo a codo con compañeros de diferentes áreas, lo que me ha permitido recopilar información esencial en un ambiente de colaboración, asegurando que nuestros proyectos cumplan con los requisitos necesarios.
+<p align="justify">🤝 <strong>Trabajo en equipo</strong>: He tenido la oportunidad de trabajar codo a codo con compañeros de diferentes áreas, lo que me ha permitido recopilar información esencial en un ambiente de colaboración, asegurando que nuestros proyectos cumplan con los requisitos necesarios.</p>
 
-💬 **Comunicación Efectiva**: Habilidades sólidas de comunicación al redactar informes técnicos y al coordinar con diferentes departamentos, asegurando que todos estén en la misma página y puedan trabajar juntos de manera efectiva
+<p align="justify">💬 <strong>Comunicación Efectiva</strong>: Habilidades sólidas de comunicación al redactar informes técnicos y al coordinar con diferentes departamentos, asegurando que todos estén en la misma página y puedan trabajar juntos de manera efectiva</p>
 
-🔍 **Atención al Detalle**: Enfoque meticuloso en la gestión de datos, garantizando la precisión y la integridad de la información en todo momento.
+<p align="justify">🔍 <strong>Atención al Detalle</strong>: Enfoque meticuloso en la gestión de datos, garantizando la precisión y la integridad de la información en todo momento.</p>
 
-🔍 **Resolución de Problemas**: Encuentro soluciones a desafíos identificados, empleando creatividad y pensamiento crítico para resolver problemas de manera efectiva.
-***
+<p align="justify">🔍 <strong>Resolución de Problemas</strong>: Encuentro soluciones a desafíos identificados, empleando creatividad y pensamiento crítico para resolver problemas de manera efectiva.</p>
+
 
 # 🛠️ Technologies and Tools I use:
 
@@ -59,6 +59,5 @@ Soy un apasionado profesional del análisis de datos, destaco por mi responsabil
 [Gestión de Inventario](https://github.com/nerdani/inventario)
 
 
-</p>
 
 
