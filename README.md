@@ -59,6 +59,6 @@
 [Gestión de Inventario](https://github.com/nerdani/inventario)
 
 ### Challenge Alura
-[Amigo Secreto](https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/app.js)
+[Amigo Secreto](https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/README.md)
 
 
