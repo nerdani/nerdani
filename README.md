@@ -54,13 +54,9 @@
 
 # Portafolio Análisis de Datos
 
-###
-
-[EDA](https://github.com/nerdani/Exploratory-data-analysis)
+* [EDA](https://github.com/nerdani/Exploratory-data-analysis)
 
 
 
 
-
-![HDFS GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVhNjQyOXZ5YjVzbHhjdHpwNHo4amdnZGF0Ymg2YmhubTk4czc3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
 
