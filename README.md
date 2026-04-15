@@ -11,13 +11,11 @@
 
 
 
-
-
 # About Me:
 
-<p align="justify">  Soy un apasionado profesional del análisis de datos, destaco por mi responsabilidad, dinamismo y creatividad. Me comprometo con la excelencia en el trabajo en equipo y poseo una destacada habilidad para adaptarme a entornos exigentes.</p>
+<p align="justify">  Soy un Ingeniero Comercial de Santiago de Chile, apasionado por la intersección entre los negocios y la tecnología. Actualmente me desempeño como Analista Comercial en una agencia marítima, donde he perfeccionado mi visión estratégica de los procesos de mercado .</p>
 
-<p align="justify"> 😎 Actualmente me encuentro estudiando un diplomado de Big data y Machine Learning en la Universidad Autónoma de Chile  </p>
+<p align="justify"> 😎 Decidí dar un paso más allá en mi carrera profesional para especializarme en la resolución de problemáticas de la industria TI a través del análisis de datos. </p>
 
 <p align="justify"> 🔍 Estoy buscando nuevas oportunidades laborales donde pueda aplicar mis habilidades y experiencia en análisis de datos para contribuir al éxito del equipo y alcanzar objetivos desafiantes.</p>
 
@@ -54,16 +52,15 @@
 [![Anaconda Navigator](https://img.shields.io/badge/Anaconda_Navigator-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual)
 
 
-# Portafolio
+# Portafolio Análisis de Datos
 
-### Proyectos Data Science (PRONTO)
+###
+
+[EDA](https://github.com/nerdani/Exploratory-data-analysis)
+
+
+
+
+
 ![HDFS GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVhNjQyOXZ5YjVzbHhjdHpwNHo4amdnZGF0Ymg2YmhubTk4czc3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
-
-
-### Python
-[Gestión de Inventario](https://github.com/nerdani/inventario)
-
-### Challenge Alura
-[Amigo Secreto](https://github.com/nerdani/Challenge_Alura-Amigo_Secreto/blob/main/README.md)
-
 
